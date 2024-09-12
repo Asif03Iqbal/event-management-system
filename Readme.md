@@ -3,11 +3,6 @@
 ## Contributors: 
 As this was a team project, hence the contributers are:
 
-[Sana Khan](https://github.com/sanaa-khan)
-
-[Abeera Fatima](https://github.com/ninjacarrot)
-
-[Azka Khurram](https://github.com/AzkaKhurram)
 
 Everyone had more or less equal contribution in this project and this was the best project in the whole batch.
 
@@ -53,5 +48,3 @@ Some of the following instructions are specific to IntelliJ, as that was what we
 
 ![Alt Text](https://github.com/HxnDev/Event-Management-System/blob/main/EMS.gif)
 
-## Contact Info:
-For further queries contact me at : chhxnshah@gmail.com
