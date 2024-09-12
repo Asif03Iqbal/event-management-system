@@ -1,10 +1,9 @@
 # Event Management System - Desktop App
 
-## Contributors: 
-As this was a team project, hence the contributers are:
 
 
-Everyone had more or less equal contribution in this project and this was the best project in the whole batch.
+
+
 
 ## Required Tools
 - Any Java IDE e.g. IntelliJ, Eclipse, NetBeans etcetera (IntelliJ recommended - any edition will do, community ediion is free.)
